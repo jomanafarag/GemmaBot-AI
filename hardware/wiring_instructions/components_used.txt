@@ -1,0 +1,10 @@
+- ESP32 Dev Board
+- 1x Ultrasonic Sensors (HC-SR04)
+- L298N Motor Driver
+- 4x DC Motors with 4 Wheels
+- 1x 18650 Battery Holder (or LiPo Battery)
+- Jumper Wires (Male-Male, Male-Female, Female-Female)
+- Phone Holder (for external camera)
+- Bluetooth Speaker 
+- Breadboard (for testing)
+- Batteries 
